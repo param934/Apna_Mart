@@ -1,0 +1,101 @@
+idCustomer, first_name, last_name, phno, wallet, street_address, area_address, zip_address, password
+1,Aarav,Patel,9648172350,10000,"1455, Sector 21","Faridabad, Haryana",121001, eWa8P5
+2,Aditi,Sharma,8652103479,90000,"23, Green Avenue","Amritsar, Punjab",143001, D1hNW3AAvlP
+3,Advait,Gupta,9675302148,40000,"A-6, Vikas Marg",Delhi,110092, S8hwVKVyk
+4,Alisha,Singh,9061482537,4000,"4th Cross Road, Malleshwaram","Bangalore, Karnataka",560003, b2sQOSVcfq3
+5,Aman,Rao,8362095741,400,"85, S.P. Road","Secunderabad, Telangana",500003, anpWZOq
+6,Amisha,Reddy,7685029314,5000,"45/8, Mahaveer Nagar","Jaipur, Rajasthan",302018, 2YRBNUaVCH0m
+7,Ananya,Verma,9071456832,6000,"205, Parle Point","Surat, Gujarat",395007, vvTsxpri
+8,Aniket,Shah,9021347685,200,"106, Shakti Nagar","Udaipur, Rajasthan",313001, bgF9LJ7x
+9,Anisha,Yadav,9752301684,100,"38, Sankey Road","Bangalore, Karnataka",560052, 7Gh8XeLXR3
+10,Anjali,Choudhary,8351429670,9999,"401, Manjusha Tower","Ahmedabad, Gujarat",380007, TMYvKRImo
+11,Ankit,Bhatia,8370421965,7999,"19-Jan, Tilak Nagar",Delhi,110018, YdPzb7lZ
+12,Anmol,Desai,8743095216,500,"57, Lake Road","Kolkata, West Bengal",700029, sszBLeMzy
+13,Ansh,Bhatnagar,9065842317,200,"321, Sarvodaya Enclave",Delhi,110017, A5u9vPWtN
+14,Anshul,Nair,6970452318,900,"11-Mar, Jawahar Nagar","Jaipur, Rajasthan",302004, g3b25b2Mo
+15,Arnav,Iyer,9146825037,300,"51, Balmiki Marg","Lucknow, Uttar Pradesh",226001, pj9nyAcJQe
+16,Arpit,Rao,8743925160,4000,"22, Sushila Vihar","Bhopal, Madhya Pradesh",462039, KKhFxb
+17,Arsh,Rana,8946732105,15000,"5, Bandra West","Mumbai, Maharashtra",400050, rDWeuz4ynQiV
+18,Arya,Sengupta,9073258146,149,"18, Sector 11","Noida, Uttar Pradesh",201301, xXOnkv
+19,Ashish,Mehta,8751936240,2000,"09-Jan, Mandir Marg",Delhi,110001, AmuS7uvgyWc
+20,Atharv,Banerjee,9458731026,16000,"119, Sardar Patel Road","Hyderabad, Telangana",500003, Hksgnww
+21,Avi,Dhillon,8432690751,2999,"32, Rajpur Road","Dehradun, Uttarakhand",248001, gsQSc3iPK
+22,Avinash,Khanna,8965174302,7000,"69, Jodhpur Park","Kolkata, West Bengal",700068, YbFNsJ
+23,Ayush,Sood,9071652348,1000,"305, Paldi","Ahmedabad, Gujarat",380006, 38K7dIG
+24,Bhavesh,Mehra,7839021654,900,"12, Ram Nagar","Nagpur, Maharashtra",440010, W6Tw3f
+25,Bhavya,Pandey,7982451360,10000,"25, Gokhale Road","Thane, Maharashtra",400602, x8oSACTEyjIa
+26,Chaitanya,Kumar,6908134257,600,"78, Vasant Vihar",Delhi,110057, Zw1uGgXotQM
+27,Darsh,Bose,8360251479,899,"49, Anand Vihar","Pune, Maharashtra",411051, jBHVK4O11n7n
+28,Deepak,Thakur,8943215670,799,"23, Rajaji Salai","Chennai, Tamil Nadu",600001, n9rqBZp
+29,Dev,Das,8560312749,499,"53, JLN Marg","Jaipur, Rajasthan",302017,K78OL1pMxu2q
+30,Devanshi,Misra,7063584912,10999,"91, TTK Road","Chennai, Tamil Nadu",600018,Gvv1tda
+31,Devendra,Naidu,9160487532,11999,"24, Park Street","Kolkata, West Bengal",700016,JfNOHvaJwzYv
+32,Dhruv,Joshi,9024183675,1200,"15, Shyamla Hills","Bhopal, Madhya Pradesh",462002,dJoPNS
+33,Divya,Dubey,9760321548,1300,"129, Greams Road","Chennai, Tamil Nadu",600006,F6mq7T5
+34,Esha,Chowdhury,8637291064,1450,"3, Kalkaji",Delhi,110019,fViOCjaYy9
+35,Gaurav,Roy,7895162340,900,"502, Sahar Road","Mumbai, Maharashtra",400099,rzdSIOITni3
+36,Gautam,Raut,8430912567,260,"88, Mahatma Gandhi Road","Pune, Maharashtra",411001,fKG5346Ofrz
+37,Geeta,Kulkarni,8765031924,800,"123, Saket",Delhi,110017,A9q9wDhlZVKf
+38,Gopal,Patil,8743925160,900,"206, Marine Lines","Mumbai, Maharashtra",400020,p3DAEPDo
+39,Harsh,Goyal,8752016394,100,"54, Malviya Nagar","Jaipur, Rajasthan",302017,t3iO5hSn
+40,Harsha,Malhotra,9458731026,150,"11, Green Park",Delhi,110016,d6jJayR
+41,Himanshu,Bhandari,7095624381,390,"79, Warden Road","Mumbai, Maharashtra",400036,3kx8OauTzf
+42,Ishaan,Chauhan,8041527369,1400,"38, Purana Quila Road","Lucknow, Uttar Pradesh",226001,pGCPmNRVMM
+43,Isha,Hegde,6794013652,14999,"7, Ashok Marg","Jaipur, Rajasthan",302001,lIVkNjbry6
+44,Jagdish,Sawant,9061234785,15999,"34/A, Bhatia Nagar","Pune, Maharashtra",411013,ukBlnvEMlg3
+45,Jatin,Sahu,8469352701,1000,"H.No. 25-6-223, Ashok Nagar","Visakhapatnam, Andhra Pradesh",530003,FJXi6Rx6fQ2
+46,Jaya,Chakraborty,9061482537,20000,"12-Jan, Green Park Colony","Hyderabad, Telangana",500034,xBEchH
+47,Jayant,Shahani,8541736029,30000,"45, Shantinagar","Nagpur, Maharashtra",440002,E0tvLGs4Me
+48,Jignesh,Tiwari,8351429670,6000,"16, Shree Balaji Residency","Rajkot, Gujarat",360005,gaPKjbb1QHei
+49,Jyoti,Rastogi,7685029314,5000,"H.No. 4-2-8, Habsiguda","Hyderabad, Telangana",500007,8yShu5J
+50,Kajal,Jain,8673021549,550,"54, Kamla Nagar","Jaipur, Rajasthan",302001,pfXSRC
+51,Kavya,Sethi,9458731026,2678,"31, Indira Nagar","Lucknow, Uttar Pradesh",226016,OhG5IKuBcT0
+52,Ketan,Nambiar,9160487532,890,"5-3-345/5, Near Hyderabad Central","Hyderabad, Telangana",500029,G5MtAzAl19
+53,Kirti,Chatterjee,9012543786,560,"27, Gulmohar Park",Delhi,110049,YcsfqxCXAP
+54,Kunal,Kurup,9614782053,30000,"54, Krishna Nagar","Kanpur, Uttar Pradesh",208001,OjkUKnXiQ
+55,Kush,Shetty,9061234785,3000,"34, Shanti Niketan Colony","Bhopal, Madhya Pradesh",462001,Kti3mLMES
+56,Lokesh,Balakrishnan,9065842317,999,"16, Sector 17","Faridabad, Haryana",121002,fIwrkI1xZ0ZX
+57,Madhav,Varghese,9610325847,7890,"H.No. 1-7-73, New Maruthi Nagar","Secunderabad, Telangana",500025,H2BekSj2
+58,Madhuri,Bhide,8560312749,3450,"25, Surya Nagar","Ghaziabad, Uttar Pradesh",201011,FqzTRLzU
+59,Mahesh,Mathur,9478120536,5000,"57, Kalyani Nagar","Pune, Maharashtra",411006,iLm85q
+60,Manish,Puri,9071652348,6000,"42, Anand Vihar","Jaipur, Rajasthan",302021,Po2TFMJi
+61,Manoj,Anand,6794013652,8999,"12, Shyam Nagar","Ahmedabad, Gujarat",380015,LySJ4M
+62,Meena,Kapoor,9632154780,9000,"28, Nehru Nagar","Bhopal, Madhya Pradesh",462003,p7I1kV3NPd
+63,Megha,Kaur,8637291064,19000,"15, DLF Phase 3","Gurugram, Haryana",122002,F1lb1O1
+64,Mohan,Jha,6948123570,20000,"39, Mohan Nagar","Nagpur, Maharashtra",440001,FaQxUDdH
+65,Mohit,Lobo,9061234785,7900,"19, Gandhi Road","Kolkata, West Bengal",700007,w4YRnv
+66,Naveen,Saluja,9614782053,8999,"7, Model Town","Amritsar, Punjab",143001, iyAaVaJie5c0
+67,Navin,Venkatesh,8370421965,1200,"22, Pragati Nagar","Jabalpur, Madhya Pradesh",482001, yaFdXGI0kI
+68,Neel,Chauhan,8679513204,6000,"H.No. 6-1-97, Indira Nagar","Warangal, Telangana",506002, IKF3Wo7
+69,Neha,Dixit,9021347685,189,"10, Karol Bagh",Delhi,110005, 7u2wnqTEpw
+70,Nidhi,Bajaj,9051476832,230,"11, Sankar Nagar","Trichy, Tamil Nadu",620001, YgfBa2m4B
+71,Nisha,Talwar,9152074836,455,"48, Shakti Nagar","Jaipur, Rajasthan",302006, vbp4Vct9QY
+72,Nitin,Menon,7980412563,600,"14, Sadar Bazaar","Meerut, Uttar Pradesh",250001, I5nBsOWF0
+73,Omkar,Agarwal,8652103479,800,"13, Sanjay Nagar","Bengaluru, Karnataka",560094, sZn5gD3Z
+74,Pallavi,Varma,9061234785,900,"23, Tarnaka","Secunderabad, Telangana",500017, NEMT0x
+75,Pankaj,Garg,9740863521,1400,"27, Tilak Nagar","Raipur, Chhattisgarh",492001, 8aAyBbA
+76,Parth,Murthy,9047513268,3000,"H.No. 4-3-49, Maruthi Nagar","Vijayawada, Andhra Pradesh",520010, 4ZwFEF7ebY63
+77,Pooja,Bagchi,8743095216,6000,"6, Ratan Lal Nagar","Kanpur, Uttar Pradesh",208022, nhMGKfTtG
+78,Pradeep,Mukherjee,8637291064,800,"45, Anupam Nagar","Raipur, Chhattisgarh",492001, ASPX4G
+79,Pranav,Trivedi,8765920341,9000,"23, 1st Main Road","Lakkasandra Extension, Bangalore, Karnataka",560030, rft9Qf
+80,Pratik,Dey,8341975260,7000,"House No. 14, New Friends Colony","New Delhi, Delhi",110025, YYACZyEK1
+81,Priya,Suri,8560312749,670,"Flat No. 401, Vaishali Apartments","Nizampet Road, Hyderabad, Telangana",500090, IlDL1y2x
+82,Rachit,Sridhar,8370421965,1444,"67, Shanti Niketan Colony","Bhopal, Madhya Pradesh",462003, dW4zpmSArSL
+83,Raj,Karthik,9432567018,18000,"08-Jan, Ram Krishna Road","Kolkata, West Bengal",700004, 36o6N3LJAXv
+84,Rajat,Prasad,9051476832,10,"B-206, Aditya Greens","Gota, Ahmedabad, Gujarat",382481, HTJMLr
+85,Rajeev,Biswas,7839021654,70,"102, Ashirwad Society","Opp. Mangaldeep School, Manjalpur, Gujarat",390011, EYrkYk
+86,Rajesh,Shukla,6934082157,788,"10, Mahalakshmi Nagar","Indore, Madhya Pradesh",452001, b0Mt8NrfIgn
+87,Rakesh,Kulkarni,9610325847,800,"12-2-831, Mehdipatnam","Hyderabad, Telangana",500028, 4fge35CYeSiy
+88,Ravindra,Venkataraman,7935026148,600,"House No. 12, Sector 3","Panchkula, Haryana",134109, MfzT51
+89,Rohan,Nadar,9071456832,800,"03-Apr, Kalakunj Society","Sama Road, Vadodara, Gujarat",390008, qTCT4n
+90,Ruchir,Pai,9750321468,900,"68, Gopal Nagar","Jalandhar, Punjab",144008, JZlNYkc
+91,Sachin,Ghosh,7980412563,700,"44, Girdhar Nagar","Jaipur, Rajasthan",302021, 0HZXDbM
+92,Sahil,Chandra,8970362145,19000,"102, Alok Nagar","Indore, Madhya Pradesh",452009, BNga1w
+93,Samir,Jaiswal,6794013652,17000,"Flat No. 201, Sai Anand Residency","KPHB, Hyderabad, Telangana",500072, rgIreET
+94,Sandeep,Swamy,8743095216,700,"1st Floor, Kailash Colony","Near City Center Mall, Nashik, Maharashtra",422005, eBqMbf
+95,Sanjay,Agrawal,9061234785,800,"46, Huda Market","Sector 31, Gurugram, Haryana",122001, 95vuk91
+96,Sarika,Bhattacharya,9073261854,80,"305, Sunrise Tower","Ghod Dod Road, Surat, Gujarat",395007, 6Aw2SGT6d7vM
+97,Saurabh,Mallick,8370421965,90,"16, Sattar Taluka Society","Fatehgunj, Vadodara, Gujarat",390002, 975ZMKg
+98,Shikha,Hazra,9632154780,20,"House No. 128, Sector 8","Faridabad, Haryana",121006, TxUSyaZHi88
+99,Shilpa,Mohanty,8351429670,80,"Flat No. 601, Satya Sai Residency","KPHB, Hyderabad, Telangana",500072, pfSZ61cd9WO
+100,Shiv,Swaminathan,9061234785,10000,"23, Surya Vihar","Sector 4, Gurgaon, Haryana",122001, yNp15Q9F7

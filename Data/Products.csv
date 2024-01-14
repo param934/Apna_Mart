@@ -1,0 +1,101 @@
+idProduct,nameProduct,idCategory,price,description,quantityAvailable
+1,T-Shirt,1,500,"Black Cotton T-Shirt, Size M",93
+2,Jeans,1,1500,"Blue Denim Jeans, Size 32",49
+3,Dress,1,2000,"Red Floral Printed Dress, Size L",29
+4,Shirt,1,1000,"White Linen Shirt, Size XL",40
+5,Skirt,1,800,"Green A-Line Skirt, Size S",55
+6,Blazer,1,2500,"Black Formal Blazer, Size M",20
+7,Sweater,1,1700,"Gray Woolen Sweater, Size L",33
+8,Jacket,1,2000,"Brown Leather Jacket, Size XL",13
+9,Hoodie,1,1200,"Navy Blue Hoodie, Size M",44
+10,Pants,1,1200,"Beige Chinos, Size 32",49
+11,Nike,2,3000,"Black and Red Running Shoes, Size 10",30
+12,Adidas,2,2500,"White and Blue Casual Shoes, Size 9",33
+13,Puma,2,2000,"Gray and Green Sneakers, Size 8",46
+14,Reebok,2,1500,"Red and Black Training Shoes, Size 7",60
+15,Converse,2,1700,"White and Black High-Top Sneakers, Size 10",31
+16,Vans,2,1900,"Black and White Skate Shoes, Size 9",23
+17,New Balance,2,2100,"Green and Gray Trail Running Shoes, Size 8",20
+18,Skechers,2,2000,"Black and White Walking Shoes, Size 7",15
+19,Under Armour,2,2500,"Black Basketball Shoes, Size 10",2
+20,Brooks,2,2800,"Blue and Orange Running Shoes, Size 9",5
+21,Wallet,3,800,"Brown Leather Bifold Wallet, Size M",46
+22,Watch,3,3000,"Black Stainless Steel Analog Watch, Unisex",28
+23,Sunglasses,3,1500,"Black Aviator Sunglasses, Unisex",39
+24,Bag,3,2000,"Brown Canvas Backpack, Size L",18
+25,Scarf,3,500,"Red and Black Plaid Scarf, Size M",59
+26,Hat,3,700,"Black Baseball Hat, One Size",50
+27,Belt,3,1000,"Brown Leather Belt, Size M",40
+28,Gloves,3,500,"Black Warm Winter Gloves, Size M",32
+29,Umbrella,3,700,"Black Compact Umbrella, One Size",25
+30,Headphones,3,1500,"Black Wireless Headphones, One Size",12
+31,Perfume,4,1500,"Ladies' Red Eau de Parfum, 50 ml",29
+32,Lipstick,4,700,"Matte Red Lipstick, Size M",34
+33,Moisturizer,4,1200,"Men's Lightweight Moisturizer, 100 ml",50
+34,Eyeliner,4,800,"Black Liquid Eyeliner, Size S",55
+35,Shampoo,4,500,"Herbal Shampoo, 500 ml",70
+36,Conditioner,4,500,"Argan Oil Conditioner, 500 ml",58
+37,Eyeshadow Palette,4,2500,"Nude Eyeshadow Palette, Size M",19
+38,Blush,4,800,"Pink Powder Blush, Size S",28
+39,Mascara,4,900,"Waterproof Black Mascara, Size M",40
+40,Nail Polish,4,400,"Red Nail Polish, Size S",47
+41,Microwave Oven,5,5000,"20 litre capacity, multiple cooking options",18
+42,Blender,5,2000,300W motor with stainless steel blades,27
+43,Vacuum Cleaner,5,7000,"1200W motor, bagless with HEPA filter",13
+44,Toaster,5,1500,2 slice capacity with adjustable browning control,35
+45,Gas Stove,5,6000,4 burners with automatic ignition,24
+46,Iron,5,1000,2200W with steam function and adjustable temperature,34
+47,Rice Cooker,5,2500,1.8 litre capacity with automatic shut-off,50
+48,Sofa Cover,5,1500,3-seater size with machine washable fabric,20
+49,Pillow,5,500,100% cotton cover with hypoallergenic filling,80
+50,Cutlery Set,5,3000,"Stainless steel with 24 pieces including forks, knives, and spoons",7
+51,Apple iPhone 12,6,112799,"64GB, Space Grey, 5G Enabled",100
+52,Samsung Galaxy S21,6,34699,"128GB, Phantom Black, 5G Enabled",149
+53,OnePlus 9 Pro,6,15599,"256GB, Morning Mist, 5G Enabled",200
+54,Xiaomi Mi 11,6,14499,"128GB, Cosmic Black, 5G Enabled",250
+55,Google Pixel 5,6,36649,"128GB, Just Black, 5G Enabled",199
+56,Sony Xperia 5 III,6,17749,"256GB, Black, 5G Enabled",147
+57,Realme Narzo 30 Pro,6,18199,"64GB, White Knight, 4G Enabled",299
+58,Honor 30S,6,12249,"128GB, Magic Night Black, 5G Enabled",199
+59,OPPO Find X3 Pro,6,9999,"256GB, Gloss Black, 5G Enabled",99
+60,Vivo X60 Pro,6,59990,"128GB, Shimmer Blue, 5G Enabled",149
+61,Basketball,7,120,"Size 7, Indoor/Outdoor Use",498
+62,Tennis Racket,7,375,"Graphite, Lightweight, Strung",196
+63,Running Shoes,7,1120,"Men's size 9, Breathable Mesh",298
+64,Yoga Mat,7,775,"Non-Slip, Eco-Friendly, 72"" x 24""",400
+65,Jump Rope,7,300,"Adjustable Length, Foam Handles",494
+66,Weightlifting Gloves,7,899,"Leather, Wrist Support, Non-Slip",300
+67,Cycling Jersey,7,1245,"Men's Large, Quick-Dry Fabric",197
+68,Swimming Goggles,7,999,"Anti-Fog, UV Protection, Adjustable Strap",399
+69,Baseball Bat,7,899,"Aluminum, 31"" Length, Youth Size",300
+70,Hiking Backpack,7,1599,"45L, Water Resistant, Adjustable Straps",148
+71,Lego Set,8,735,"Star Wars Themed, 500 Pieces",196
+72,Remote Control Car,8,699,"1:16 Scale, Off-Road",299
+73,Stuffed Animal,8,815,"Cute and Soft, 12"" Tall",396
+74,Doll House,8,599,"Three Levels, Furnished",100
+75,Action Figure,8,200,"Marvel Cinematic Universe, 6"" Tall",300
+76,Puzzle,8,100,"1000 Piece, Landscape Scene",197
+77,Board Game,8,250,Monopoly Classic Edition,142
+78,Play Tent,8,499,"Indoor/Outdoor Use, 45"" x 45""",193
+79,Building Blocks,8,399,"Large Set, 100 Pieces",249
+80,Remote Control Helicopter,8,1299,"2 Channel, Indoor Use",95
+81,Harry Potter and the Philosopher's Stone,9,2000,"Fantasy Fiction, Hardcover",495
+82,To Kill a Mockingbird,9,1599,"Classics, Paperback",400
+83,The Alchemist,9,1200,"Self-Discovery, Paperback",299
+84,The Da Vinci Code,9,1850,"Mystery Thriller, Hardcover",200
+85,The Lord of the Rings,9,2500,"Fantasy Fiction, Hardcover",199
+86,The Hunger Games,9,2200,"Science Fiction, Paperback",250
+87,The Great Gatsby,9,1500,"Classics, Paperback",299
+88,Pride and Prejudice,9,1790,"Classics, Paperback",400
+89,1984,9,1499,"Dystopian Fiction, Paperback",193
+90,Animal Farm,9,120,"Political Satire, Paperback",299
+91,Rice,10,100,"Long Grain, 5lb bag",291
+92,Pasta,10,50,"Penne, 1lb box",397
+93,Bread,10,30,"Whole Wheat, Loaf",497
+94,Sugar,10,200,"Granulated, 4lb bag",397
+95,Cooking Oil,10,700,"Extra Virgin Olive Oil, 1L bottle",200
+96,Tomatoes,10,200,"Ripe, Fresh, 1lb bag",299
+97,Potatoes,10,70,"Russet, 5lb bag",400
+98,Lemon,10,100,"Fresh, Medium-sized",499
+99,Milk,10,40,"Whole, 1 gallon",187
+100,Eggs,10,180,"Large, Grade A, Dozen",294
